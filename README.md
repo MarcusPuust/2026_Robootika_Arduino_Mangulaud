@@ -26,7 +26,7 @@ Iga meeskond **forkib** selle repo ja dokumenteerib siin oma seadme/projekti:
 ## Meeskond
 
 - Õppeaine: IFI6203.DT Robootika  
-- Autor(id): _[täida nimed siia]_  
-- Aasta / semester: _[nt 2025 kevad]_  
+- Autor(id): Marcus Puust, Jan Aaron Einloo  
+- Aasta / semester: 2026 sügis  
 
 > NB! Ärge kustutage osi, mis on nõutud, küll aga võite lisada lisafaile (katsetused, logid, alternatiivsed skeemid jne).
